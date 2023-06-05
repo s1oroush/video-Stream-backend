@@ -23,6 +23,7 @@ The following guides illustrate how to use some features concretely:
 Starting by using Spring Initializr and for building application using Maven build with Java 17.
 then using project Lombok as developer tools and Spring Reactive Web for web application.
 For Database, we used Spring Data JPA and H2 in memory Database.
+For test the application, at the initializing the app one sample video is added into db and has access by (http://localhost:8083/video/sample) 
 
 
 
