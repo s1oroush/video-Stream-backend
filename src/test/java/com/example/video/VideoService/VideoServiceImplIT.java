@@ -1,7 +1,7 @@
 package com.example.video.VideoService;
 
 import com.example.video.Repository.VideoRepository;
-import com.example.video.Video;
+import com.example.video.entity.Video;
 import jakarta.transaction.Transactional;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

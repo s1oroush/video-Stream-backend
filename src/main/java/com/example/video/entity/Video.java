@@ -1,4 +1,4 @@
-package com.example.video;
+package com.example.video.entity;
 
 
 import jakarta.persistence.*;

@@ -1,6 +1,6 @@
 package com.example.video.Repository;
 
-import com.example.video.Video;
+import com.example.video.entity.Video;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
